@@ -1,0 +1,26 @@
+﻿Soft conflicts of 2022-06-01 korjaukset.fet
+Generated with FET 6.5.1 on 6/1/22 10:37 PM
+
+Number of broken soft constraints: 16
+Total soft conflicts: 15.2
+
+Soft conflicts list (in decreasing order):
+
+Time constraint activities preferred time slots broken for activity with id=2292 (    1/9 - kartar - BG - BG - 9A) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2294 (    1/9 - kartar - BG - BG - 9A) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2297 (    1/9 - kartar - BG - BG - 9B) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2312 (    1/9 - aurlau - BG - BG - 9C) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2314 (1/9 -     aurlau - BG - BG - 9D) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2318 (    1/9 - aurlau - BG - BG - 9D) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2319 (    1/9 - aurlau - BG - BG - 9D) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2330 (    1/9 - aurlau - BG - BG - 9F) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2345 (    1/9 - eroheiX - BG - BG - 9H) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2357 (    1/9 - eroheiX - BG - BG - 9I) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2358 (    1/9 - eroheiX - BG - BG - 9I) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2368 (1/9 -     no teachers - BG - BG - 9S) on 1 hours, increases conflicts total by 0.95
+Time constraint min days between activities broken: activity with id=2356 (    1/9 - eroheiX - BG - BG - 9I) conflicts with activity with id=2351 (    1/9 - eroheiX - BG - BG - 9I), being 1 days too close, on days TI4 and TI4, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
+Space constraint subject preferred rooms broken for activity with id 898 (    1/3 - eroheiX - GE - BG - 7H). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 903 (    1/3 - no teachers - GE - 7S). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 906 (    1/3 - aurlau - GE - BG - 8A). This increases the conflicts total by 0.95
+
+End of file.
