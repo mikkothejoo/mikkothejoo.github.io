@@ -1,0 +1,37 @@
+﻿Soft conflicts of 2022-06-01 korjaukset bg min2 max3 jak.fet
+Generated with FET 6.5.1 on 6/2/22 4:14 AM
+
+Number of broken soft constraints: 27
+Total soft conflicts: 25.65
+
+Soft conflicts list (in decreasing order):
+
+Time constraint activities preferred time slots broken for activity with id=2292 (    1/9 - kartar - BG - BG - 9A) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2297 (    1/9 - kartar - BG - BG - 9B) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2299 (    1/9 - kartar - BG - BG - 9B) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2306 (    1/9 - aurlau - BG - BG - 9C) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2307 (    1/9 - aurlau - BG - BG - 9C) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2317 (    1/9 - aurlau - BG - BG - 9D) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2319 (    1/9 - aurlau - BG - BG - 9D) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2322 (    1/9 - aurlau - BG - BG - 9D) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2329 (    1/9 - aurlau - BG - BG - 9F) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2330 (    1/9 - aurlau - BG - BG - 9F) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2331 (    1/9 - aurlau - BG - BG - 9F) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2333 (    1/9 - kartar - BG - BG - 9G) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2334 (    1/9 - kartar - BG - BG - 9G) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2335 (    1/9 - kartar - BG - BG - 9G) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2337 (    1/9 - kartar - BG - BG - 9G) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2343 (    1/9 - eroheiX - BG - BG - 9H) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2346 (    1/9 - eroheiX - BG - BG - 9H) on 1 hours, increases conflicts total by 0.95
+Time constraint activities preferred time slots broken for activity with id=2357 (    1/9 - eroheiX - BG - BG - 9I) on 1 hours, increases conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 882 (    1/3 - kartar - GE - BG - 7C). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 885 (    1/3 - kartar - GE - BG - 7D). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 902 (1/3 -     no teachers - GE - 7S). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 904 (    1/3 - no teachers - GE - 7S). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 905 (1/3 -     aurlau - GE - BG - 8A). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 911 (1/3 -     aurlau - GE - BG - 8C). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 918 (    1/3 - eroheiX - GE - BG - 8E). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 932 (1/3 -     no teachers - GE - 8S). This increases the conflicts total by 0.95
+Space constraint subject preferred rooms broken for activity with id 934 (    1/3 - no teachers - GE - 8S). This increases the conflicts total by 0.95
+
+End of file.
