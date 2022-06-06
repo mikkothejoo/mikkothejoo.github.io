@@ -1,0 +1,19 @@
+﻿Soft conflicts of 2022-06-05 9S BG pois ja koleilen Liviun pohjalta.fet
+Generated with FET 6.5.2 on 6/6/22 12:30 AM
+
+Number of broken soft constraints: 9
+Total soft conflicts: 4.5
+
+Soft conflicts list (in decreasing order):
+
+Space constraint subject preferred rooms broken for activity with id 2344 (    1/9 - eroheiX - BG - BG - 9H). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2349 (    1/9 - eroheiX - BG - BG - 9H). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2352 (    1/9 - eroheiX - BG - BG - 9I). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2361 (    1/9 - terjoh - BG - 9J). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2366 (    1/9 - terjoh - BG - 9J). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2371 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2372 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2374 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2376 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+
+End of file.

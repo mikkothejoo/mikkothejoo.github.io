@@ -1,0 +1,20 @@
+﻿Soft conflicts of 2022-06-05 9S BG pois ja koleilen Liviun pohjalta.fet
+Generated with FET 6.5.2 on 6/6/22 2:24 AM
+
+Number of broken soft constraints: 10
+Total soft conflicts: 5.45
+
+Soft conflicts list (in decreasing order):
+
+Time constraint min days between activities broken: activity with id=2340 (    1/9 - kartar - BG - BG - 9G) conflicts with activity with id=2336 (    1/9 - kartar - BG - BG - 9G), being 1 days too close, on days TO4 and TO4, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
+Space constraint subject preferred rooms broken for activity with id 2287 (1/9 -     kartar - BG - BG - 9A). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2290 (    1/9 - kartar - BG - BG - 9A). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2306 (    1/9 - aurlau - BG - BG - 9C). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2338 (    1/9 - kartar - BG - BG - 9G). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2346 (    1/9 - eroheiX - BG - BG - 9H). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2358 (    1/9 - eroheiX - BG - BG - 9I). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2367 (    1/9 - terjoh - BG - 9J). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2372 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2374 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+
+End of file.
