@@ -1,0 +1,21 @@
+﻿Soft conflicts of 4 for Liviu-unlocked_data_and_timetable.fet
+Generated with FET 6.5.2 on 6/6/22 2:16 PM
+
+Number of broken soft constraints: 11
+Total soft conflicts: 5.95
+
+Soft conflicts list (in decreasing order):
+
+Time constraint min days between activities broken: activity with id=2417 (    1/6 - vahhen - MA - HV - 8G) conflicts with activity with id=2416 (1/6 -     vahhen - MA - HV - 8G), being 1 days too close, on days TI5 and TI5, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are in the same day
+Space constraint subject preferred rooms broken for activity with id 2288 (    1/9 - kartar - BG - BG - 9A). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2293 (    1/9 - kartar - BG - BG - 9A). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2297 (    1/9 - kartar - BG - BG - 9B). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2313 (    1/9 - aurlau - BG - BG - 9C). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2365 (    1/9 - terjoh - BG - 9J). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2369 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2370 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2371 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2372 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2376 (    1/9 - no teachers - BG - BG - 9S). This increases the conflicts total by 0.5
+
+End of file.

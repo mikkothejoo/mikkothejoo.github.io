@@ -1,0 +1,16 @@
+﻿Soft conflicts of 7 for Liviu-unlocked_data_and_timetable.fet
+Generated with FET 6.5.2 on 6/6/22 2:17 PM
+
+Number of broken soft constraints: 6
+Total soft conflicts: 3
+
+Soft conflicts list (in decreasing order):
+
+Space constraint subject preferred rooms broken for activity with id 2310 (    1/9 - aurlau - BG - BG - 9C). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2312 (    1/9 - aurlau - BG - BG - 9C). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2323 (1/9 -     aurlau - BG - BG - 9F). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2328 (    1/9 - aurlau - BG - BG - 9F). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2330 (    1/9 - aurlau - BG - BG - 9F). This increases the conflicts total by 0.5
+Space constraint subject preferred rooms broken for activity with id 2363 (    1/9 - terjoh - BG - 9J). This increases the conflicts total by 0.5
+
+End of file.
